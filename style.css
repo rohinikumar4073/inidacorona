@@ -1,0 +1,11 @@
+.svg-india {
+    width: 100%;
+}
+
+.svg-india ,.slider-container,.svg-container , .radio-container{
+    justify-content: center;
+    display: flex;
+}
+.slider #range{
+    width: 500px;
+}
